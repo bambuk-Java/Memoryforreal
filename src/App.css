@@ -78,8 +78,6 @@ body{
 .grayOverlay {
   filter: grayscale(100%);
 }
-.text{
-}
 #start{
   display: flex;
   align-items: center;
@@ -90,6 +88,7 @@ body{
   border-radius: 10px;
   background-color: #3b3b3b;
   margin-left: 9.5em;
+  color: white;
   
 }
 .blocked{
